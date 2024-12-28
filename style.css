@@ -1,0 +1,64 @@
+#color{
+
+
+    text-align: center;
+        margin: 10px;
+    
+        background-color: darkturquoise;
+    }
+    
+    
+    
+    #container{
+    
+    text-align: center;
+    font-size: 30px;
+    
+    
+    
+    }
+    #main{
+    
+    display: flex;
+    gap: 80px;
+    
+    }
+    #card1{
+        font-size: large;
+        background-color: white;
+        padding: 0;
+        height: 280px;
+        width: 250px;
+        text-align: center;
+        margin: 10px;
+    }
+    #card2{
+        font-size: large;
+        background-color: white;
+        padding: 0;
+        height: 280px;
+        width: 250px;
+        text-align: center;
+        margin: 10px;
+    }
+    #card3{
+        font-size: large;
+        background-color: white;
+        padding: 0;
+        height: 280px;
+        width: 250px;
+        text-align: center;
+        margin: 10px;
+    }
+    #card4{
+        font-size: large;
+        background-color: white;
+        padding: 0;
+        height: 280px;
+        width: 250px;
+        text-align: center;
+        margin: 10px;
+    }
+
+   
+    
